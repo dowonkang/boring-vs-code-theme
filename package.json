@@ -1,0 +1,21 @@
+{
+    "name": "boring-color-theme",
+    "displayName": "boring-color-theme",
+    "description": "A boring color theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Boring Color Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Boring Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
