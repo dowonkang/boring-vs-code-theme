@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Boring Color Theme",
+                "label": "Boring",
                 "uiTheme": "vs",
-                "path": "./themes/Boring Color Theme-color-theme.json"
+                "path": "./themes/boring-color-theme.json"
             }
         ]
     }
