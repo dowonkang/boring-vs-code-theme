@@ -2,7 +2,7 @@
   "name": "Boring Color Theme",
   "type": "light",
   "colors": {
-    "editor.background": "#f5f5f5",
+    "editor.background": "#f7f7f7",
     "editor.foreground": "#333333"
   },
   "semanticHighlighting": true,
@@ -33,7 +33,7 @@
       "name": "Language Constants",
       "scope": ["constant.language", "support.constant", "variable.language"],
       "settings": {
-        "foreground": "#24a3af"
+        "foreground": "#8959a8"
       }
     },
     {
@@ -186,7 +186,7 @@
       "name": "JSON: keys",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#24a3af"
+        "foreground": "#333333"
       }
     }
   ]
