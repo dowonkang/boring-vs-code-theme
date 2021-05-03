@@ -109,6 +109,13 @@
       "name": "CSS: Property Names",
       "scope": ["meta.property-name.css", "support.type.property-name.css"],
       "settings": {
+        "foreground": "#007d87"
+      }
+    },
+    {
+      "name": "CSS: Vendor-prefixed",
+      "scope": ["support.type.vendored.property-name.css"],
+      "settings": {
         "fontStyle": "italic"
       }
     },
