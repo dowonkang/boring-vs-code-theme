@@ -69,6 +69,13 @@
       }
     },
     {
+      "name": "Template: Expression",
+      "scope": "meta.template.expression",
+      "settings": {
+        "foreground": "#333333"
+      }
+    },
+    {
       "name": "Entity: Name",
       "scope": "entity.name",
       "settings": {
