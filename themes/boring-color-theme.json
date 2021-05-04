@@ -33,7 +33,7 @@
       "name": "Language Constants",
       "scope": ["constant.language", "support.constant", "variable.language"],
       "settings": {
-        "foreground": "#a822ff"
+        "foreground": "#7d19bf"
       }
     },
     {
